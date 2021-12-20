@@ -31,5 +31,5 @@ interactive dashboard makes it easy to sort, filter, or drill into different typ
 Further Data science techniques can be used to identify what is happening, why it's happening, 
 and what will happen next.
 
-## Data Description
-![image](https://user-images.githubusercontent.com/41823726/146797151-07df5d9b-c50f-41ce-ba5b-e5d5cceb36d8.png)
+## DATA DESCRIPTION
+![image](https://user-images.githubusercontent.com/41823726/146797360-81dd074d-8b76-442f-9314-59881428366e.png)
