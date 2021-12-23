@@ -57,8 +57,11 @@ that create the most profit, So that profits do not diminish.
 ## YEAR 2020
 ![image](https://user-images.githubusercontent.com/41823726/147170019-d1e7812c-9893-4f34-aeaa-a6580c892b9e.png)
 ## YEAR 2019
+![image](https://user-images.githubusercontent.com/41823726/147170193-a4555d97-0e46-4aa4-9712-d9fb38b6f479.png)
 ## YEAR 2018
+![image](https://user-images.githubusercontent.com/41823726/147170200-1d7d099c-bb75-4293-b5e0-43c7b8e736a8.png)
 ## YEAR 2017
+![image](https://user-images.githubusercontent.com/41823726/147170221-2ee4cf40-1ad3-46ad-ae76-0edccb7373d9.png)
 
 
 
