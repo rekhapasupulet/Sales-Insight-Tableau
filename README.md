@@ -46,14 +46,19 @@ to learn about the reasons for the company's low profit
 margin. He should maintain strong relationship with 
 his top customers. Motivate employees through incentives 
 in low profit regions. Who do not fulfil their sales targets 
-should be warned or fired.
-To improve their sales breakdown with E-commerce 
+should be warned or fired. To improve their sales breakdown with E-commerce 
 customers, company should learn about their interests. 
 Discounts should be given to markets with the lowest profit 
 margins, such as Bengaluru and Kanpur. Analyze the client 
 experience and sold products in areas with low revenue and 
 profit. The sales director should focus more on the markets 
 that create the most profit, So that profits do not diminish.
+
+## YEAR 2020
+![image](https://user-images.githubusercontent.com/41823726/147170019-d1e7812c-9893-4f34-aeaa-a6580c892b9e.png)
+## YEAR 2019
+## YEAR 2018
+## YEAR 2017
 
 
 
