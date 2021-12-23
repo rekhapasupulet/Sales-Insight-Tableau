@@ -1,4 +1,6 @@
 # SALES INSIGHT
+![markus-winkler-IrRbSND5EUc-unsplash](https://user-images.githubusercontent.com/41823726/147261641-79f25503-83a6-4daf-8bfc-2b3e6ff34ecf.jpg)
+
 ## INTRODUCTION
 
 Data plays a very crucial role in today’s world. The impact on organisations with data is
