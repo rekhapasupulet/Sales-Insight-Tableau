@@ -37,9 +37,16 @@ and what will happen next.
 ## TABLEAU DASHBOARD
 ![image](https://user-images.githubusercontent.com/41823726/146798106-5971892e-c3ae-4d47-a3a9-1f20afc10b9b.png)
 
+## YEAR 2020
+![image](https://user-images.githubusercontent.com/41823726/147170019-d1e7812c-9893-4f34-aeaa-a6580c892b9e.png)
+## YEAR 2019
+![image](https://user-images.githubusercontent.com/41823726/147170193-a4555d97-0e46-4aa4-9712-d9fb38b6f479.png)
+## YEAR 2018
+![image](https://user-images.githubusercontent.com/41823726/147170200-1d7d099c-bb75-4293-b5e0-43c7b8e736a8.png)
+## YEAR 2017
+![image](https://user-images.githubusercontent.com/41823726/147170221-2ee4cf40-1ad3-46ad-ae76-0edccb7373d9.png)
 
-
-In 2020 specific dashboard, Although Delhi generates the 
+In YEAR 2020, Although Delhi generates the 
 most revenue(77M), it only makes a profit of 0.59%. The 
 Sales Director should contact the Delhi Regional Manager 
 to learn about the reasons for the company's low profit 
@@ -53,15 +60,17 @@ margins, such as Bengaluru and Kanpur. Analyze the client
 experience and sold products in areas with low revenue and 
 profit. The sales director should focus more on the markets 
 that create the most profit, So that profits do not diminish.
+## References
+1.	https://www.ibm.com/analytics/data-visualization
+2.	Brodlie K, Osorio RA, Lopes A. A review of uncertainty in data visualization. Expanding the frontiers of visual analytics and visualization. 2012:81-109.
+3.	Paneels S, Roberts JC. Review of designs for haptic data visualization. IEEE Transactions on Haptics. 2009 Sep 22;3(2):119-37.
+4.	Pavlopoulos GA, Soldatos TG, Barbosa-Silva A, Schneider R. A reference guide for tree analysis and visualization. BioData mining. 2010 Dec;3(1):1-24.
+5.	https://www.intellspot.com/data-dashboard-examples/
+6.	https://www.tableau.com/learn/articles/best-beautiful-data-visualization-examples
+7.	https://intellipaat.com/blog/tableau-projects/
+8.	https://365datascience.com/trending/data-visualization-project-ideas/
+9.	https://www.atliq.com/
 
-## YEAR 2020
-![image](https://user-images.githubusercontent.com/41823726/147170019-d1e7812c-9893-4f34-aeaa-a6580c892b9e.png)
-## YEAR 2019
-![image](https://user-images.githubusercontent.com/41823726/147170193-a4555d97-0e46-4aa4-9712-d9fb38b6f479.png)
-## YEAR 2018
-![image](https://user-images.githubusercontent.com/41823726/147170200-1d7d099c-bb75-4293-b5e0-43c7b8e736a8.png)
-## YEAR 2017
-![image](https://user-images.githubusercontent.com/41823726/147170221-2ee4cf40-1ad3-46ad-ae76-0edccb7373d9.png)
 
 
 
