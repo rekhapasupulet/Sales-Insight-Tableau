@@ -36,3 +36,24 @@ and what will happen next.
 
 ## TABLEAU DASHBOARD
 ![image](https://user-images.githubusercontent.com/41823726/146798106-5971892e-c3ae-4d47-a3a9-1f20afc10b9b.png)
+
+
+
+In 2020 specific dashboard, Although Delhi generates the 
+most revenue(77M), it only makes a profit of 0.59%. The 
+Sales Director should contact the Delhi Regional Manager 
+to learn about the reasons for the company's low profit 
+margin. He should maintain strong relationship with 
+his top customers. Motivate employees through incentives 
+in low profit regions. Who do not fulfil their sales targets 
+should be warned or fired.
+To improve their sales breakdown with E-commerce 
+customers, company should learn about their interests. 
+Discounts should be given to markets with the lowest profit 
+margins, such as Bengaluru and Kanpur. Analyze the client 
+experience and sold products in areas with low revenue and 
+profit. The sales director should focus more on the markets 
+that create the most profit, So that profits do not diminish.
+
+
+
